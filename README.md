@@ -1,6 +1,18 @@
 # Header - README Template.
 
-<a class="anchor" id="about the project"></a>
+
+>## Table of Contents Example
+* [Links](#links)
+* [About the Project](#about_the_project)
+* [Tools](#tools)
+* [Installation Instructions](#installation_instructions)
+* [Contact Information](#contact)
+
+<a class="anchor" id="links"></a>
+>## Links
+https://rmcanete.github.io/PCDE-Activity-9.1/
+
+<a class="anchor" id="about_the_project"></a>
 >## About the Project
 Include a summary of the project here.
 
@@ -17,12 +29,6 @@ Include a list of the tools used in the project:
 <a class="anchor" id="contact"></a>
 >## Contact Information
 [Raymond Canete](www.linkedin.com/in/mattiecanete)
-
->## Table of Contents Example
-* [About the Project](#about_the_project)
-* [Tools](#tools)
-* [Installation Instructions](#installation_instructions)
-* [Contact Information](#contact)
 
 ![Github Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Github logo - markdown")
 
