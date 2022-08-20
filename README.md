@@ -13,7 +13,7 @@ After more than 15 years in the Security Industry, I decided to study Software E
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
-[Raymond Canete - LinkedIn](www.linkedin.com/in/mattiecanete)
+>[Raymond Canete - LinkedIn](www.linkedin.com/in/mattiecanete)
 
 <a class="anchor" id="projects"></a>
 >## Projects
