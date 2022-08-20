@@ -18,7 +18,7 @@ After more than 15 years in the Security Industry, I decided to study Software E
 <a class="anchor" id="projects"></a>
 >## Projects
 >#### [Hack or Snooze](https://github.com/RMCanete/hack-or-snooze-ajax-api)
->####[Cocktail Hour](https://github.com/RMCanete/Capstone1/blob/main/README.md)
+>#### [Cocktail Hour](https://github.com/RMCanete/Capstone1/blob/main/README.md)
 
 
 <a class="anchor" id="tools"></a>
